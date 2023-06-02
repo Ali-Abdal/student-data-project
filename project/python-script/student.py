@@ -11,7 +11,7 @@ class Student:
         self.code = code
 
     def describe_student(self):
-        return f"""
+        print(f"""
 
         Name: {self.name}
         GPA: {self.gpa}
@@ -20,5 +20,19 @@ class Student:
         Gender: {self.gender}
         Code: {self.code}
 
-        """
-    
+        """)
+
+    def change_major(self,new_major):
+        self.major = new_major
+
+    def change_country(self,new_country):
+        self.country = new_country
+
+    def change_name(self,new_name):
+        self.name = new_name
+
+    def change_gpa(self,new_gpa):
+        self.gpa = new_gpa
+
+    def change_major(self,new_major):
+        self.major = new_major

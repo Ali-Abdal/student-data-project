@@ -1,4 +1,5 @@
-# used it to generate the fake data of 1000 student
+# this file was used to generate fake random data of 1000 students then writing it in the txt file
+# the file is not used by the programm any more!!
 
 import random
 

@@ -1,3 +1,5 @@
+# this file was used to clean the data from txt then store it csv, the file is not used by the programm any more!!
+
 import csv
 import random
 
