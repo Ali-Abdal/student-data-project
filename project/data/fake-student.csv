@@ -1,0 +1,1001 @@
+name,major,country,gpa,gender,code
+Sara Ajmi,Robotics,USA,86.93,Female,821613608960
+Hamza Ghanim,Chemical Engineering,New Zealand,97.67,Male,568024242176
+Mahdi Mutairi,Marketing,USA,92.61,Male,642092972032
+Hajer Al-Bannai,Aerospace Engineering,Canada,99.42,Female,649673041920
+Hamad Bloushy,Medical Engineering,New Zealand,81.91,Male,221322797058
+Khalid Gambar,Computer Science,USA,99.96,Male,831020673024
+Ahmad Bloushy,English,Bahrain,82.36,Male,749600776192
+Mahdi Elenzi,English,Saudi,99.87,Male,393951913984
+Hussain Jawahery,Dentistry,UAE,99.51,Male,513806465025
+Hind Fadlhi,business,Saudi,81.78,Female,537168259074
+Habiba Mutairi,Dentistry,Bahrain,99.23,Female,391205038081
+Fatima Bloushy,Media,Canada,80.1,Female,407597166593
+Moath Shimery,French,Canada,93.46,Male,568569149443
+Abdulaziz Ajmi,Marketing,UK,99.38,Male,479927556096
+Hamza Fadlhi,Mechanical Engineering,Saudi,89.07,Male,535040444418
+Haider Ajmi,Data Science,Saudi,94.48,Male,556710002689
+Khalid Bahbhani,Art,Bahrain,94.36,Male,302743705602
+Haider Elenzi,Dentistry,France,97.34,Male,234247221249
+Asmaa Gambar,Robotics,Australia,98.82,Female,908292069376
+Farah Tuneb,French,Canada,83.45,Female,407687997440
+Thamer Abdal,Dentistry,Canada,95.24,Male,257954224132
+Salman Hashimy,Aerospace Engineering,USA,96.97,Male,700882010113
+Habiba Bahbhani,Cyber Security,New Zealand,83.55,Female,774589734912
+Norah Habib,English,USA,92.69,Female,635279241220
+Zainab Azmi,Cyber Security,Australia,85.51,Female,358784157699
+Hamad Ramadan,Medicine,Australia,99.76,Male,354410344449
+Omar Ghanim,Graphical Designing,Saudi,80.8,Male,696130467841
+Mariam Ajmi,Art,France,94.16,Female,849754435584
+Mariam Bloushy,Media,Bahrain,80.31,Female,924257374209
+Nancy Mousawi,Computer Engineering,UAE,82.97,Female,518355628034
+Hajer Gambar,Aerospace Engineering,Bahrain,90.08,Female,523451908096
+Aisha Fadlhi,French,France,98.26,Female,172285030400
+Abdulaziz Hulail,Computer Science,Australia,97.3,Male,859207720960
+Rashid Hulail,Graphical Designing,Australia,89.49,Male,225173577729
+Yousif Ghanim,Marketing,UK,99.4,Male,328069859330
+Mansour Marafi,Dentistry,UAE,98.04,Male,484912951299
+Mariam Elenzi,business,Bahrain,82.16,Female,289655570432
+Hamad Tuneb,Biology,France,83.76,Male,106132133888
+Hamza Fozan,Physics,Irland,91.08,Male,486162907138
+Habiba Gambar,Graphical Designing,Canada,94.13,Female,983103950852
+Mansour Azmi,Biology,Australia,88.72,Male,431913132032
+Omar Bloushy,Marketing,UAE,90.83,Male,287940435968
+Haider Abdal,Robotics,New Zealand,95.34,Male,306960818177
+Hind Gambar,Physics,UK,81.7,Female,912305487872
+Munir Shimery,Medicine,UAE,99.33,Male,818170900481
+Habiba Hulail,Graphical Designing,Irland,86.6,Female,168235352064
+Habiba Mousawi,Computer Engineering,Irland,81.55,Female,179660279808
+Hassan Azmi,Civil Engineering,UK,99.58,Male,632166320133
+Habiba Elenzi,Chemistry,Saudi,95.8,Female,419788656640
+Ali Hashimy,Mechanical Engineering,Irland,88.8,Male,215430381568
+Hashim Shimery,Civil Engineering,UAE,89.12,Male,677448181761
+Hamad Dashti,English,Australia,92.58,Male,290772805635
+Hamad Hulail,Civil Engineering,New Zealand,88.72,Male,915209379843
+Fatima Jawahery,Media,USA,81.17,Female,754461511685
+Zainab Bloushy,Pharmacy,Australia,95.34,Female,604401909760
+Mansour Abdal,Art,Canada,86.37,Male,506824794114
+Aisha Refai,Computer Engineering,Saudi,99.08,Female,638011344899
+Salman Marafi,Physics,UAE,87.75,Male,399481606144
+Noor Tuneb,Robotics,New Zealand,92.19,Female,374516258816
+Nancy Shimery,Aerospace Engineering,France,98.69,Female,441883734017
+Mohammed Gambar,Graphical Designing,France,95.06,Male,727057532930
+Ahmad Bloushy,Computer Science,UAE,83.86,Male,608023371776
+Mohammed Habib,Art,Irland,99.88,Male,750001457152
+Hajer Ramadan,Graphical Designing,France,81.65,Female,205700884480
+Haider Mousawi,French,Bahrain,82.55,Male,313042386944
+Jawan Hashimy,Medical Engineering,Irland,80.9,Female,339827226624
+Jawan Tuneb,Data Science,UAE,93.27,Female,943810965505
+Jawan Ghanim,Medicine,Bahrain,96.89,Female,720639719426
+Abdullah Fadlhi,Aerospace Engineering,France,81.12,Male,591317299200
+Zainab Ajmi,Aerospace Engineering,USA,88.24,Female,725264044032
+Moath Bahbhani,Civil Engineering,UAE,99.48,Male,372322805760
+Mariam Ajmi,business,Saudi,83.08,Female,446079590402
+Omar Mutairi,Physics,USA,81.09,Male,650893260806
+Ali Gambar,Computer Engineering,UK,80.17,Male,762101815298
+Zainab Elenzi,business,Bahrain,80.13,Female,572940976128
+Hussain Fozan,Graphical Designing,New Zealand,85.87,Male,677018793984
+Nancy Tuneb,French,UK,92.45,Female,668168060928
+Asmaa Fadlhi,Cyber Security,Bahrain,97.49,Female,363082694658
+Habiba Tuneb,Computer Science,Irland,90.64,Female,681019062272
+Jassim Marafi,Robotics,Saudi,88.06,Male,520825860096
+Sara Mutairi,Civil Engineering,France,88.62,Female,410038605824
+Asmaa Ramadan,English,Saudi,83.14,Female,695852924932
+Hashim Fozan,Medicine,Bahrain,95.93,Male,151558744064
+Khalid Azmi,English,Irland,99.63,Male,636736229384
+Mansour Hashimy,Aerospace Engineering,Canada,90.42,Male,986311866369
+Thamer Habib,English,Australia,88.92,Male,176116226055
+Yousif Tuneb,English,Australia,88.63,Male,543499311104
+Hajer Azmi,business,Saudi,99.5,Female,294570807297
+Norah Abdal,business,USA,80.44,Female,684284393472
+Thamer Mousawi,Marketing,France,97.61,Male,389275949056
+Norah Bloushy,Art,UAE,99.74,Female,533725880324
+Ahmad Ghanim,business,France,92.33,Male,112547614720
+Hashim Habib,Aerospace Engineering,France,86.03,Male,208391254016
+Asmaa Hashimy,Graphical Designing,Saudi,86.06,Female,863175383040
+Hashim Azmi,Marketing,UK,87.84,Male,639928733696
+Hamza Tuneb,Civil Engineering,Canada,80.26,Male,262287724544
+Habiba Hashimy,business,Bahrain,96.65,Female,599628052486
+Jassim Shimery,Cyber Security,Bahrain,91.82,Male,532106379274
+Haider Fadlhi,English,UK,94.72,Male,281089417216
+Munir Bahbhani,Chemical Engineering,Australia,80.18,Male,375424776192
+Jawan Al-Bannai,Medical Engineering,Irland,90.49,Female,517547376645
+Fatima Gambar,Pharmacy,UK,95.19,Female,616573046784
+Mahdi Al-Bannai,Graphical Designing,Saudi,98.14,Male,717047908352
+Abdulmohsen Fadlhi,Data Science,UK,89.51,Male,876919482369
+Salman Marafi,Chemical Engineering,UAE,82.68,Male,800707246080
+Salman Hulail,Pharmacy,France,99.74,Male,521215037441
+Mohammed Bahbhani,English,Saudi,94.95,Male,639794219009
+Jassim Hashimy,Civil Engineering,Australia,80.56,Male,869409333268
+Hind Habib,Chemistry,USA,98.1,Female,487250976774
+Mahdi Refai,business,Australia,84.04,Male,808620462081
+Hassan Jawahery,Robotics,UAE,98.72,Male,208747192320
+Noor Ghanim,Medicine,Bahrain,97.77,Female,246007644160
+Asmaa Habib,Graphical Designing,UK,82.09,Female,142032314368
+Munir Abdal,Computer Science,Canada,98.67,Male,387297941506
+Ahmad Mousawi,Computer Science,UAE,81.6,Male,193344151554
+Norah Dashti,business,Saudi,84.77,Female,248789620737
+Abdullah Ajmi,Data Science,UK,82.06,Male,334310504448
+Khalid Bloushy,English,Australia,80.88,Male,715314878464
+Asmaa Marafi,Graphical Designing,USA,90.81,Female,405265909760
+Rashid Marafi,Cyber Security,Bahrain,96.68,Male,905496354816
+Yousif Ajmi,Pharmacy,UAE,95.3,Male,293710129153
+Jawan Gambar,Dentistry,Irland,99.65,Female,311183687681
+Moath Marafi,French,Irland,90.9,Male,713131479040
+Sara Refai,Cyber Security,Canada,80.79,Female,289931143170
+Yousif Hulail,Civil Engineering,New Zealand,81.37,Male,675647019009
+Salman Refai,Aerospace Engineering,USA,97.94,Male,251253379073
+Hussain Mutairi,Computer Science,Canada,80.23,Male,166153347072
+Fatima Bahbhani,Mechanical Engineering,Irland,85.46,Female,513702301698
+Salman Hulail,French,France,81.58,Male,995655391235
+Zainab Ajmi,Art,Australia,98.59,Female,986215077888
+Sara Tuneb,Mechanical Engineering,Canada,98.85,Female,419547279360
+Wrood Fozan,English,New Zealand,93.72,Female,528521330688
+Abdullah Shimery,Robotics,UK,90.1,Male,483857125378
+Abdulmohsen Mutairi,Media,Irland,91.74,Male,426722076672
+Hussain Elenzi,Medicine,USA,98.19,Male,721655750661
+Jassim Refai,Computer Science,Bahrain,95.42,Male,308201441281
+Mahdi Bahbhani,Physics,UK,87.13,Male,571557414912
+Hamad Dashti,Data Science,USA,81.29,Male,901352019970
+Munir Ajmi,Art,Saudi,98.43,Male,327880652801
+Ali Hashimy,Computer Engineering,Bahrain,90.24,Male,401857517569
+Hajer Fadlhi,Pharmacy,France,97.48,Female,324814479361
+Aisha Marafi,Robotics,France,93.71,Female,914466019328
+Yousif Gambar,Marketing,France,87.49,Male,435712106498
+Moath Gambar,Chemistry,Irland,96.74,Male,576646492160
+Jawan Dashti,Pharmacy,UK,95.21,Female,988163397632
+Wrood Bloushy,Art,Saudi,88.48,Female,304625248257
+Hashim Hulail,English,Saudi,81.91,Male,314368702467
+Mohammed Marafi,Pharmacy,UAE,95.71,Male,547973806083
+Thamer Ramadan,Medical Engineering,UAE,80.82,Male,804916799488
+Haider Ajmi,Physics,UAE,88.45,Male,262726262784
+Thamer Refai,Aerospace Engineering,New Zealand,89.1,Male,212380680192
+Salman Shimery,Medicine,Bahrain,96.22,Male,696710510594
+Mohammed Elenzi,French,Irland,93.76,Male,340086226947
+Fatima Refai,Cyber Security,Saudi,98.95,Female,966827266055
+Sara Marafi,Media,New Zealand,94.13,Female,511715958784
+Moath Al-Bannai,Dentistry,France,99.76,Male,137587572742
+Hamza Ajmi,Chemistry,UK,86.81,Male,206637707264
+Wrood Shimery,business,Bahrain,90.64,Female,789446340610
+Salman Hashimy,Mechanical Engineering,Saudi,94.35,Male,959956195328
+Mariam Fadlhi,English,Australia,94.82,Female,123648395266
+Hamad Al-Bannai,Pharmacy,New Zealand,95.52,Male,382876698624
+Hussain Bahbhani,Chemical Engineering,France,84.05,Male,455129550848
+Hassan Al-Bannai,Media,Canada,90.86,Male,250635638785
+Moath Refai,Physics,Irland,92.46,Male,263087796231
+Zainab Hulail,Mechanical Engineering,UK,96.62,Female,596266620933
+Habiba Ghanim,Robotics,UAE,95.12,Female,612497461249
+Khalid Bloushy,Media,USA,90.23,Male,902867705861
+Aisha Hulail,Media,France,97.32,Female,386866210816
+Zainab Tuneb,Marketing,USA,95.91,Female,804529324032
+Asmaa Marafi,Aerospace Engineering,UAE,84.89,Female,735201978369
+Norah Fadlhi,Medical Engineering,Australia,93.28,Female,787923728386
+Thamer Refai,Graphical Designing,UK,95.58,Male,850886742018
+Ahmad Bloushy,Computer Engineering,Bahrain,89.95,Male,661077876739
+Haider Al-Bannai,Computer Science,Irland,97.78,Male,837932064768
+Sara Gambar,Physics,UAE,80.77,Female,525333602305
+Norah Ghanim,Biology,USA,84.29,Female,338973728772
+Ali Ghanim,Chemical Engineering,UAE,84.08,Male,909999837185
+Mahdi Refai,Medicine,France,97.27,Male,773736239107
+Hashim Ghanim,Computer Engineering,Australia,93.69,Male,180761550853
+Abdulaziz Mutairi,Computer Science,Bahrain,87.99,Male,681965398016
+Hashim Al-Bannai,Computer Science,Bahrain,82.15,Male,350301759489
+Thamer Fadlhi,Physics,Irland,98.63,Male,714973196288
+Thamer Abdal,Computer Science,USA,85.02,Male,749520130051
+Mariam Shimery,business,New Zealand,84.56,Female,464018483202
+Salman Mousawi,business,USA,81.96,Male,624891656193
+Hamza Ghanim,Graphical Designing,UK,95.97,Male,790714591234
+Hajer Refai,Chemical Engineering,France,81.71,Female,357411403776
+Norah Ghanim,Robotics,Australia,80.69,Female,483659485188
+Salman Shimery,Data Science,USA,93.18,Male,816292257797
+Ahmad Al-Bannai,Pharmacy,USA,96.6,Male,139243526145
+Wrood Bahbhani,Graphical Designing,New Zealand,86.62,Female,441552660480
+Abdulaziz Hashimy,Chemistry,UK,91.11,Male,503104524292
+Zainab Tuneb,Graphical Designing,UK,96.33,Female,527472338944
+Abdullah Hashimy,Chemical Engineering,New Zealand,88.15,Male,209157468160
+Hussain Habib,Cyber Security,Australia,81.37,Male,737705820162
+Hamad Ghanim,Pharmacy,Saudi,98.12,Male,878111985667
+Jassim Ghanim,Medical Engineering,USA,81.4,Male,604813862920
+Hussain Marafi,Robotics,Irland,85.38,Male,682398939136
+Zainab Hashimy,Mechanical Engineering,France,88.1,Female,519555258368
+Munir Azmi,Data Science,France,80.16,Male,505064968193
+Thamer Abdal,English,Bahrain,95.36,Male,790288668674
+Mohammed Abdal,French,Australia,80.89,Male,468978331650
+Asmaa Habib,Pharmacy,Saudi,97.9,Female,268001921024
+Salman Hashimy,Medical Engineering,Bahrain,83.42,Male,435856066560
+Abdullah Jawahery,Medical Engineering,Australia,94.88,Male,781419481088
+Abdullah Elenzi,English,USA,94.88,Male,259973867520
+Salman Refai,Medical Engineering,UAE,86.39,Male,208803020801
+Mariam Ghanim,Pharmacy,Bahrain,98.97,Female,335658266625
+Jawan Mousawi,Robotics,USA,94.66,Female,490864144384
+Hajer Abdal,Marketing,Bahrain,80.91,Female,196188235781
+Norah Fozan,Cyber Security,Irland,90.91,Female,325543694336
+Habiba Shimery,Medicine,UAE,97.04,Female,727865890817
+Abdulaziz Fadlhi,Mechanical Engineering,UAE,90.35,Male,288363345920
+Aisha Abdal,Computer Engineering,France,98.47,Female,608920827908
+Abdulmohsen Shimery,Civil Engineering,Irland,83.61,Male,448981329926
+Hussain Bloushy,Art,USA,97.3,Male,442501689344
+Hamad Mutairi,Aerospace Engineering,Canada,94.21,Male,871136059394
+Hassan Mutairi,business,Australia,95.98,Male,103448119297
+Wrood Mousawi,business,Australia,81.29,Female,494613843968
+Farah Bahbhani,Biology,France,82.04,Female,858819190784
+Salman Hashimy,Cyber Security,New Zealand,82.12,Male,990301986816
+Jawan Tuneb,Data Science,France,88.84,Female,141623160832
+Aisha Ghanim,Medical Engineering,New Zealand,97.88,Female,112522926081
+Hamza Al-Bannai,Marketing,France,96.35,Male,772578598912
+Jawan Mousawi,French,USA,83.65,Female,497343498241
+Jawan Elenzi,Civil Engineering,France,85.87,Female,417478590465
+Omar Hashimy,Computer Engineering,Irland,91.64,Male,651829260292
+Omar Shimery,Art,France,85.82,Male,770763798535
+Haider Ajmi,Physics,Irland,83.44,Male,531172939776
+Jassim Tuneb,Medicine,Irland,99.71,Male,411848667136
+Mahdi Hulail,English,New Zealand,82.22,Male,877302108162
+Khalid Bloushy,business,France,84.34,Male,685796208640
+Abdullah Abdal,Media,UAE,88.95,Male,490019246082
+Zainab Hashimy,Medical Engineering,Irland,90.07,Female,317167116288
+Munir Elenzi,Dentistry,UAE,99.47,Male,397920188418
+Hamza Elenzi,Medical Engineering,UAE,91.21,Male,922316470272
+Nancy Elenzi,Mechanical Engineering,UK,85.11,Female,208629796865
+Mahdi Shimery,Media,Saudi,90.47,Male,682911596544
+Hamza Azmi,Chemical Engineering,Irland,91.58,Male,582553135104
+Moath Marafi,Art,Australia,92.8,Male,359832721412
+Hussain Abdal,Chemistry,Canada,83.85,Male,773628989440
+Yousif Refai,Cyber Security,New Zealand,96.01,Male,214483462144
+Farah Dashti,Marketing,Australia,99.89,Female,558346788865
+Hind Ghanim,Mechanical Engineering,Canada,96.3,Female,876420679680
+Abdullah Mutairi,Mechanical Engineering,Canada,99.68,Male,193476048896
+Hamza Fadlhi,Chemical Engineering,Canada,98.61,Male,929367953409
+Thamer Fadlhi,Pharmacy,Bahrain,99.16,Male,562165258240
+Noor Bahbhani,Civil Engineering,UAE,98.54,Female,701409413121
+Hussain Habib,Art,UK,98.19,Male,696979601410
+Rashid Jawahery,Chemistry,Saudi,91.34,Male,669054087168
+Yousif Bloushy,business,Australia,86.31,Male,656871559168
+Mariam Tuneb,Chemical Engineering,Australia,88.67,Female,399565336576
+Aisha Habib,Medicine,Australia,95.77,Female,432946528259
+Hashim Fozan,business,New Zealand,98.99,Male,172283965440
+Sara Fadlhi,Chemistry,Bahrain,82.32,Female,593452838912
+Mohammed Fozan,Robotics,Saudi,80.85,Male,789803776000
+Hashim Hulail,Medicine,New Zealand,98.85,Male,137224351744
+Hassan Ajmi,Art,Canada,92.38,Male,591206535168
+Moath Ajmi,Art,UK,98.52,Male,139726258177
+Thamer Fadlhi,Data Science,Canada,95.61,Male,591272390656
+Hajer Mutairi,Medical Engineering,Canada,84.66,Female,669580894213
+Hussain Abdal,Civil Engineering,UK,98.88,Male,200642140161
+Jawan Fadlhi,Marketing,UK,89.63,Female,392354224130
+Abdulmohsen Bloushy,Cyber Security,Bahrain,80.18,Male,281512914944
+Abdulmohsen Bloushy,French,New Zealand,91.47,Male,759237347330
+Mariam Fozan,Chemistry,Canada,88.04,Female,957848076288
+Sara Elenzi,Dentistry,Saudi,96.07,Female,149070080000
+Salman Gambar,Graphical Designing,Canada,86.02,Male,129689307137
+Noor Marafi,Computer Science,Saudi,96.22,Female,611270277120
+Nancy Marafi,Pharmacy,Irland,95.42,Female,952925765638
+Habiba Refai,Mechanical Engineering,USA,96.32,Female,695469578245
+Yousif Shimery,Computer Science,France,89.6,Male,563952515072
+Mansour Bloushy,Graphical Designing,Irland,88.31,Male,359039797250
+Hashim Ghanim,Graphical Designing,Irland,91.83,Male,872107096068
+Hamad Fadlhi,Physics,UK,95.46,Male,698787817472
+Hamza Tuneb,Dentistry,France,97.63,Male,701815603202
+Abdulaziz Bahbhani,Cyber Security,France,82.34,Male,216778911745
+Hajer Gambar,Graphical Designing,Bahrain,86.66,Female,336289605633
+Sara Mousawi,business,France,93.46,Female,506013085698
+Aisha Marafi,Physics,USA,80.6,Female,795660349443
+Hussain Gambar,Media,Canada,97.1,Male,805668845568
+Hashim Ghanim,Dentistry,UAE,96.34,Male,745161553921
+Mansour Al-Bannai,Medicine,Saudi,97.78,Male,148711110656
+Mansour Marafi,Pharmacy,UAE,97.59,Male,462856323073
+Zainab Shimery,Medical Engineering,Canada,98.6,Female,399440934912
+Thamer Mousawi,Medical Engineering,Canada,80.92,Male,181215524864
+Habiba Fadlhi,Media,UK,83.78,Female,691968673792
+Rashid Fadlhi,Computer Science,Canada,88.07,Male,983447973888
+Rashid Hashimy,Physics,Canada,86.17,Male,250416453632
+Zainab Al-Bannai,Pharmacy,New Zealand,96.92,Female,104282599432
+Farah Gambar,Medical Engineering,UAE,80.06,Female,434051729409
+Farah Dashti,Art,Saudi,96.56,Female,114176094208
+Rashid Tuneb,Marketing,Bahrain,90.45,Male,383919464449
+Zainab Marafi,Art,UK,91.48,Female,449064503297
+Khalid Mutairi,Aerospace Engineering,UK,87.08,Male,897722085376
+Ali Abdal,Dentistry,Australia,96.3,Male,811436195841
+Hamza Bahbhani,Media,Irland,87.15,Male,225914306561
+Hajer Mutairi,Medical Engineering,France,87.45,Female,714239504385
+Norah Shimery,Civil Engineering,Saudi,85.14,Female,100833734661
+Omar Mousawi,Aerospace Engineering,New Zealand,87.09,Male,883675344900
+Aisha Shimery,Dentistry,UK,98.81,Female,958008938497
+Jassim Dashti,Art,Irland,89.6,Male,979108059137
+Jawan Bloushy,Civil Engineering,UK,92.13,Female,685037348864
+Asmaa Mousawi,Robotics,Canada,81.77,Female,317692581888
+Moath Hulail,Robotics,Irland,82.5,Male,804834091009
+Mohammed Fadlhi,Biology,Australia,93.13,Male,384148918274
+Aisha Hulail,Medicine,Canada,95.33,Female,795903031296
+Ahmad Bahbhani,Civil Engineering,USA,89.31,Male,197128110080
+Thamer Bloushy,Mechanical Engineering,Bahrain,84.48,Male,926382223362
+Farah Tuneb,French,Bahrain,81.77,Female,874857684992
+Mahdi Fadlhi,Aerospace Engineering,UAE,98.91,Male,720623280128
+Munir Marafi,Physics,Canada,91.35,Male,655296825345
+Rashid Ajmi,Civil Engineering,Saudi,93.75,Male,750828736513
+Omar Shimery,Medical Engineering,Canada,98.29,Male,870581909506
+Mohammed Ramadan,Graphical Designing,USA,90.93,Male,278569476097
+Hajer Fozan,Medicine,Canada,96.01,Female,696258738178
+Khalid Ghanim,Medical Engineering,Australia,95.18,Male,606219173888
+Thamer Fadlhi,French,Saudi,94.03,Male,592995598336
+Khalid Ghanim,Robotics,USA,81.57,Male,315904661507
+Jassim Mousawi,business,France,87.77,Male,295725131776
+Jawan Habib,Chemistry,Australia,83.39,Female,512685576192
+Farah Mousawi,Data Science,UK,97.48,Female,404147638272
+Abdulmohsen Tuneb,Chemical Engineering,France,91.08,Male,806516604930
+Ali Marafi,Media,France,99.05,Male,983711633408
+Moath Shimery,Civil Engineering,Irland,99.81,Male,365514268675
+Zainab Dashti,Computer Science,New Zealand,90.13,Female,479759480832
+Hassan Jawahery,Art,USA,81.73,Male,551651031043
+Asmaa Ghanim,Cyber Security,UAE,86.43,Female,556854761473
+Omar Marafi,Art,UK,93.2,Male,732765161473
+Hamza Fozan,Civil Engineering,UAE,82.14,Male,935292104711
+Ali Mutairi,Computer Science,Canada,87.03,Male,300293347328
+Rashid Jawahery,Dentistry,New Zealand,99.0,Male,945617620992
+Hussain Hulail,Pharmacy,Australia,97.1,Male,789747955716
+Jassim Ghanim,business,UK,89.45,Male,584914280449
+Ali Bahbhani,Graphical Designing,Bahrain,82.95,Male,678625239040
+Abdulmohsen Fadlhi,English,France,87.43,Male,284349429760
+Farah Abdal,Medical Engineering,Australia,84.96,Female,937755049985
+Mahdi Ramadan,business,New Zealand,89.78,Male,551421315073
+Aisha Habib,business,Canada,98.44,Female,241154019341
+Farah Elenzi,Marketing,UAE,84.85,Female,182093250561
+Wrood Al-Bannai,Graphical Designing,France,91.93,Female,409636425730
+Thamer Shimery,Biology,UAE,86.74,Male,654860431361
+Mansour Ghanim,business,Saudi,99.35,Male,516015915009
+Noor Elenzi,Dentistry,UK,95.4,Female,988286879744
+Rashid Dashti,Pharmacy,France,95.68,Male,468461006849
+Wrood Habib,Medical Engineering,Irland,82.17,Female,527368937480
+Norah Ghanim,English,Canada,97.44,Female,476306855936
+Salman Fozan,Physics,UK,91.3,Male,540363063297
+Wrood Elenzi,Robotics,UK,83.67,Female,159064383488
+Thamer Azmi,Chemical Engineering,France,87.41,Male,563504254977
+Habiba Elenzi,Graphical Designing,UAE,89.66,Female,604465997825
+Hamad Hulail,Media,Canada,80.88,Male,124002191367
+Yousif Jawahery,Mechanical Engineering,New Zealand,91.8,Male,494200817665
+Rashid Hashimy,Marketing,UAE,84.23,Male,830566600704
+Hashim Marafi,Dentistry,UK,95.8,Male,279364284421
+Ali Bloushy,Computer Science,New Zealand,92.31,Male,899418136578
+Nancy Ajmi,Medicine,Saudi,98.23,Female,132182198275
+Abdulmohsen Bloushy,Medicine,Canada,99.51,Male,227071860744
+Noor Azmi,Robotics,Canada,87.05,Female,756313616385
+Hajer Tuneb,Computer Science,Saudi,95.77,Female,193554032643
+Abdullah Fozan,Chemical Engineering,USA,86.44,Male,199580770304
+Mariam Shimery,business,UAE,96.39,Female,760350636033
+Mariam Fozan,Marketing,France,90.82,Female,539354302464
+Mohammed Bahbhani,Physics,France,90.1,Male,586477094913
+Rashid Fadlhi,Cyber Security,France,81.42,Male,201068513281
+Haider Refai,Graphical Designing,Bahrain,85.64,Male,159062353922
+Abdulaziz Gambar,Media,New Zealand,90.51,Male,747656026115
+Wrood Bloushy,Biology,USA,98.95,Female,312474308608
+Abdulaziz Hulail,French,New Zealand,94.03,Male,658652030977
+Jassim Elenzi,Medicine,USA,98.14,Male,363104577538
+Mahdi Dashti,Cyber Security,Australia,95.66,Male,890899478528
+Hussain Bahbhani,Computer Engineering,Saudi,91.07,Male,541522550786
+Norah Ramadan,Data Science,Australia,81.12,Female,879788828674
+Sara Shimery,Medicine,Irland,97.93,Female,268598427650
+Hussain Al-Bannai,Medicine,USA,99.22,Male,823377326086
+Mariam Hulail,Dentistry,France,99.84,Female,566718291968
+Hassan Al-Bannai,Data Science,Canada,91.83,Male,700849633284
+Farah Mutairi,Pharmacy,Irland,99.54,Female,852102191104
+Zainab Dashti,Physics,Irland,86.86,Female,698153068545
+Fatima Fozan,Dentistry,Saudi,96.58,Female,316913244161
+Nancy Elenzi,Civil Engineering,Irland,88.06,Female,100224356352
+Hamza Bloushy,Medicine,France,99.35,Male,674888450048
+Noor Jawahery,Civil Engineering,USA,91.34,Female,668463648770
+Hussain Marafi,Civil Engineering,Bahrain,94.56,Male,749716930560
+Salman Shimery,Computer Engineering,Irland,92.82,Male,728807612417
+Munir Elenzi,Biology,France,95.41,Male,148628357124
+Norah Tuneb,Medical Engineering,Bahrain,90.14,Female,264879656960
+Thamer Abdal,Chemistry,UK,99.76,Male,112773175297
+Hamad Ajmi,Computer Science,Australia,95.45,Male,786734612480
+Mansour Ramadan,Civil Engineering,UK,86.32,Male,443428190210
+Hamad Elenzi,Medical Engineering,Irland,89.65,Male,596185636866
+Mohammed Azmi,Civil Engineering,Irland,98.87,Male,709098983424
+Ali Refai,Physics,Saudi,98.68,Male,166217009152
+Mahdi Fozan,Medicine,France,98.68,Male,802393851905
+Habiba Mousawi,Graphical Designing,Australia,98.22,Female,868040605697
+Jawan Bloushy,Cyber Security,Bahrain,87.97,Female,147294953473
+Mohammed Tuneb,English,USA,92.69,Male,105619609600
+Mohammed Marafi,Pharmacy,Saudi,95.53,Male,872325353472
+Abdulmohsen Hashimy,Art,UAE,91.08,Male,319727540228
+Khalid Bahbhani,Civil Engineering,France,91.58,Male,870660921347
+Rashid Hashimy,Medicine,Bahrain,95.39,Male,410752307202
+Sara Ramadan,Computer Engineering,France,91.1,Female,688818421762
+Jassim Ajmi,Marketing,UAE,99.28,Male,542545129472
+Sara Tuneb,business,Canada,84.62,Female,754447071233
+Abdulmohsen Mousawi,Computer Engineering,UAE,93.68,Male,436610680838
+Rashid Jawahery,Medicine,New Zealand,97.07,Male,681031628800
+Fatima Ramadan,Media,Saudi,85.06,Female,681399398400
+Wrood Ajmi,Graphical Designing,UK,84.07,Female,398950160385
+Mohammed Habib,Art,Saudi,88.41,Male,570099824644
+Hajer Habib,Cyber Security,Irland,95.86,Female,112395972611
+Mariam Fadlhi,Biology,USA,84.9,Female,422517495810
+Thamer Habib,Chemical Engineering,UAE,83.84,Male,838387245062
+Abdullah Mutairi,Medicine,Saudi,98.0,Male,100153827338
+Ahmad Tuneb,Civil Engineering,Bahrain,96.33,Male,413905702912
+Haider Ghanim,Dentistry,France,99.96,Male,681511636992
+Hamza Abdal,French,UK,88.85,Male,325064220673
+Abdulmohsen Gambar,English,USA,92.44,Male,423574353923
+Hashim Hashimy,Biology,UAE,83.53,Male,918730088450
+Aisha Mousawi,Chemical Engineering,Canada,82.01,Female,734982971393
+Farah Bloushy,French,Saudi,84.19,Female,726061170688
+Sara Ramadan,Chemistry,Saudi,97.02,Female,751176929281
+Asmaa Habib,Cyber Security,USA,89.32,Female,977990715392
+Sara Bloushy,business,UK,94.59,Female,761972443136
+Hind Hashimy,business,France,81.42,Female,686002853889
+Hashim Al-Bannai,Biology,New Zealand,88.42,Male,372353386498
+Hashim Ramadan,Cyber Security,UK,98.66,Male,255350403073
+Munir Bahbhani,Physics,Irland,86.86,Male,234086207488
+Hussain Ramadan,Chemistry,Irland,98.22,Male,840383526916
+Hussain Hashimy,Graphical Designing,New Zealand,90.51,Male,423666325504
+Abdulaziz Habib,Medicine,Bahrain,95.83,Male,237719019521
+Farah Fozan,Robotics,Canada,93.55,Female,517637171200
+Jassim Gambar,French,USA,91.04,Male,200745095168
+Jassim Bloushy,Computer Science,UAE,82.46,Male,690265587712
+Jawan Bloushy,Dentistry,Australia,97.38,Female,374118619140
+Abdullah Mutairi,Data Science,USA,94.62,Male,857331101700
+Aisha Marafi,Computer Engineering,Bahrain,97.94,Female,353243353091
+Omar Shimery,Pharmacy,UK,95.9,Male,814361837570
+Munir Gambar,Graphical Designing,USA,83.45,Male,340915922948
+Salman Abdal,Pharmacy,Bahrain,97.41,Male,580954363904
+Zainab Fadlhi,Medical Engineering,UAE,97.87,Female,854576427009
+Mahdi Al-Bannai,Chemistry,New Zealand,90.03,Male,442806751233
+Mahdi Al-Bannai,English,Australia,91.86,Male,207770112001
+Aisha Jawahery,Marketing,USA,89.61,Female,535498457099
+Haider Dashti,Medicine,France,97.21,Male,830219614209
+Munir Fozan,Data Science,UK,81.03,Male,571019309060
+Jawan Ghanim,Art,Irland,81.25,Female,277441357826
+Mansour Refai,Marketing,France,84.3,Male,473630771200
+Jassim Fozan,English,France,98.15,Male,768267550724
+Munir Mousawi,Pharmacy,Bahrain,95.78,Male,656088373248
+Jassim Tuneb,Robotics,UAE,87.73,Male,509821378563
+Munir Jawahery,English,Bahrain,94.75,Male,637070170115
+Fatima Bloushy,Marketing,Saudi,90.31,Female,106671704065
+Norah Marafi,English,Canada,100.0,Female,450271899648
+Thamer Habib,English,UAE,84.72,Male,417950171136
+Zainab Bahbhani,Dentistry,Saudi,96.12,Female,882078003205
+Fatima Al-Bannai,Chemical Engineering,Irland,95.46,Female,398460135427
+Noor Mousawi,Medical Engineering,New Zealand,87.3,Female,285758265344
+Mahdi Dashti,French,Bahrain,95.72,Male,931570403328
+Moath Ramadan,Robotics,Bahrain,94.08,Male,147680946177
+Ali Refai,Civil Engineering,France,83.1,Male,658466486272
+Zainab Bahbhani,Pharmacy,Canada,96.55,Female,852403232771
+Hassan Gambar,Robotics,France,95.5,Male,523359555584
+Norah Azmi,Marketing,Irland,87.09,Female,624954277889
+Noor Bahbhani,Biology,UK,97.52,Female,760674574341
+Hamad Al-Bannai,English,France,92.23,Male,355985571840
+Fatima Dashti,Chemistry,France,93.68,Female,485973968896
+Wrood Bloushy,Robotics,UAE,83.84,Female,178393280513
+Habiba Bloushy,Dentistry,Australia,96.99,Female,740051910657
+Habiba Ajmi,Media,Irland,99.1,Female,625300133891
+Hajer Tuneb,Mechanical Engineering,USA,83.37,Female,139901241345
+Abdulaziz Al-Bannai,Graphical Designing,France,99.31,Male,765759741952
+Mohammed Fozan,Media,Bahrain,89.63,Male,324893571073
+Aisha Abdal,Robotics,UK,98.31,Female,962038743043
+Hamza Fadlhi,Pharmacy,Saudi,98.22,Male,424909293568
+Haider Tuneb,French,Irland,90.5,Male,960859873283
+Jassim Marafi,Physics,France,93.62,Male,209235679232
+Hamad Tuneb,Data Science,Bahrain,98.52,Male,389263974400
+Fatima Gambar,Chemistry,UAE,96.3,Female,329642604550
+Hind Ramadan,Marketing,UK,99.95,Female,461452115969
+Jawan Marafi,Chemistry,UAE,98.48,Female,885149501440
+Hussain Gambar,Graphical Designing,USA,91.94,Male,139391461380
+Khalid Dashti,Robotics,Canada,84.94,Male,815083206656
+Noor Fadlhi,Chemistry,Bahrain,95.85,Female,491974959105
+Hamza Azmi,Civil Engineering,Canada,87.01,Male,758375905281
+Moath Hashimy,Robotics,UK,87.22,Male,144852393984
+Hassan Shimery,Medical Engineering,UAE,98.49,Male,458124091392
+Haider Mousawi,Medicine,Australia,99.58,Male,401001353217
+Hassan Habib,Cyber Security,France,81.39,Male,328769329152
+Hajer Bahbhani,Aerospace Engineering,New Zealand,88.36,Female,839651753984
+Aisha Ramadan,Mechanical Engineering,Canada,87.07,Female,907306567682
+Jassim Refai,Robotics,UK,88.95,Male,207801874432
+Hassan Azmi,Art,Irland,98.28,Male,726830919682
+Fatima Fadlhi,Biology,Canada,83.21,Female,792692932608
+Mohammed Bahbhani,English,Australia,97.79,Male,919504447489
+Asmaa Mutairi,Data Science,Irland,95.24,Female,386244493314
+Zainab Ramadan,Pharmacy,UAE,95.67,Female,830853443584
+Jassim Azmi,Civil Engineering,Irland,97.95,Male,169737961472
+Jassim Fadlhi,Computer Engineering,Bahrain,85.13,Male,658251626498
+Zainab Ajmi,Biology,Canada,84.6,Female,801553111041
+Hamza Dashti,Dentistry,UK,96.75,Male,562363181056
+Haider Bloushy,Art,New Zealand,83.57,Male,198905350144
+Thamer Ramadan,Dentistry,Australia,96.83,Male,512395644929
+Thamer Marafi,English,UAE,82.13,Male,429790267396
+Wrood Refai,Pharmacy,Australia,98.1,Female,536873568265
+Noor Elenzi,Civil Engineering,Australia,94.05,Female,522895720448
+Noor Tuneb,Civil Engineering,France,88.96,Female,227585411073
+Jassim Ghanim,Robotics,France,93.23,Male,929770752001
+Omar Fadlhi,Biology,New Zealand,80.68,Male,465211222017
+Salman Tuneb,Aerospace Engineering,UAE,90.9,Male,303730825217
+Mohammed Shimery,Art,UAE,82.24,Male,495211112448
+Noor Al-Bannai,Medicine,UK,95.53,Female,847556990984
+Yousif Hulail,Medicine,Bahrain,98.07,Male,604809584641
+Zainab Marafi,business,UK,88.26,Female,904292712448
+Haider Gambar,Robotics,UK,98.68,Male,195143686144
+Norah Marafi,Art,Irland,93.66,Female,827881697204
+Thamer Tuneb,French,France,82.09,Male,923701444608
+Hamza Dashti,Civil Engineering,USA,81.41,Male,950216888321
+Hashim Jawahery,Aerospace Engineering,Irland,87.82,Male,540436363264
+Hashim Dashti,Cyber Security,UK,95.46,Male,717561683972
+Khalid Ajmi,Chemical Engineering,New Zealand,93.74,Male,988815736837
+Farah Tuneb,business,USA,80.18,Female,289695090688
+Noor Ajmi,Media,Canada,84.42,Female,941073446915
+Zainab Tuneb,Graphical Designing,Australia,83.88,Female,960472829958
+Habiba Hulail,Graphical Designing,Australia,91.29,Female,226545690624
+Omar Bahbhani,Aerospace Engineering,France,82.01,Male,802084487171
+Hamad Fozan,Medicine,UAE,96.56,Male,653681698817
+Hamza Hashimy,Chemistry,France,81.3,Male,482433923081
+Mariam Jawahery,Medical Engineering,USA,81.78,Female,768817651713
+Nancy Refai,Civil Engineering,New Zealand,86.51,Female,546456307713
+Abdullah Bloushy,Chemistry,Irland,88.47,Male,702064783361
+Moath Mutairi,Pharmacy,New Zealand,99.14,Male,300392112129
+Abdulaziz Marafi,Computer Science,Bahrain,97.61,Male,481432356864
+Zainab Mousawi,Computer Engineering,UK,81.98,Female,586312280064
+Salman Hulail,Pharmacy,New Zealand,97.55,Male,310333304832
+Hind Fadlhi,Aerospace Engineering,Canada,84.44,Female,406583957506
+Noor Mutairi,Pharmacy,France,99.34,Female,729584979970
+Fatima Elenzi,Chemical Engineering,Australia,85.67,Female,387827304450
+Aisha Azmi,Marketing,Saudi,90.98,Female,233870628865
+Nancy Azmi,Dentistry,USA,96.21,Female,971164360706
+Ali Dashti,Chemistry,France,84.18,Male,425848473601
+Hassan Refai,Robotics,New Zealand,91.74,Male,329414903810
+Abdulaziz Marafi,Physics,Saudi,87.12,Male,462971758592
+Mohammed Shimery,Cyber Security,UAE,96.43,Male,567200937988
+Mariam Jawahery,French,USA,97.63,Female,748279431169
+Nancy Bahbhani,Robotics,Bahrain,97.48,Female,830396092418
+Hamza Hashimy,Biology,France,97.99,Male,856991090689
+Hussain Hashimy,Marketing,USA,83.31,Male,448223811586
+Asmaa Dashti,Dentistry,Irland,97.35,Female,930911948800
+Salman Abdal,Computer Engineering,UK,92.65,Male,891264712705
+Abdulaziz Fadlhi,Civil Engineering,Bahrain,80.67,Male,466954240000
+Haider Ramadan,Robotics,Bahrain,87.52,Male,735061295105
+Farah Refai,Chemical Engineering,Canada,81.04,Female,419126511618
+Ali Ghanim,Dentistry,USA,96.11,Male,691606065160
+Salman Hulail,English,Canada,90.15,Male,357736554498
+Habiba Refai,Mechanical Engineering,New Zealand,81.17,Female,887065040898
+Hamza Jawahery,Civil Engineering,France,84.54,Male,333847810051
+Moath Mousawi,Physics,Australia,81.95,Male,496305866757
+Ahmad Refai,Cyber Security,Bahrain,82.26,Male,453092276225
+Mansour Refai,Pharmacy,Irland,96.46,Male,775171426307
+Omar Hulail,Computer Science,New Zealand,82.46,Male,405416593411
+Thamer Mousawi,French,Irland,90.42,Male,757209053184
+Aisha Elenzi,Medicine,Irland,97.45,Female,118261139459
+Asmaa Abdal,Graphical Designing,France,96.2,Female,239322116097
+Jassim Mutairi,Physics,Canada,98.29,Male,603312510976
+Hamad Azmi,English,Irland,94.35,Male,985557334020
+Norah Elenzi,Pharmacy,Australia,98.45,Female,334623512576
+Wrood Shimery,Physics,Bahrain,91.7,Female,156556484608
+Jassim Mutairi,Biology,Irland,96.42,Male,642540955648
+Hassan Shimery,Marketing,Saudi,98.6,Male,405038360580
+Hind Bloushy,Computer Science,UK,97.54,Female,168559824900
+Khalid Tuneb,Aerospace Engineering,UK,99.2,Male,891182620674
+Abdulaziz Refai,English,UAE,95.09,Male,495644239872
+Asmaa Abdal,Mechanical Engineering,Irland,91.19,Female,809951539202
+Mohammed Ghanim,French,Canada,87.55,Male,302511937536
+Hussain Fozan,Data Science,France,93.72,Male,938586120193
+Habiba Refai,Computer Engineering,Australia,94.56,Female,927016484864
+Khalid Abdal,Civil Engineering,Saudi,80.71,Male,203108417537
+Hind Dashti,Aerospace Engineering,USA,97.39,Female,864537251844
+Mariam Ramadan,Medicine,Canada,98.15,Female,437886560258
+Ali Dashti,French,UK,88.94,Male,198159452160
+Ali Refai,Robotics,Canada,86.88,Male,603041792002
+Jassim Mousawi,Computer Science,Canada,83.9,Male,106315386880
+Mohammed Dashti,Pharmacy,Saudi,97.57,Male,422523308034
+Hamad Ramadan,Physics,Australia,86.06,Male,769837862920
+Farah Azmi,Chemical Engineering,Canada,94.62,Female,102502205442
+Jawan Azmi,business,New Zealand,84.21,Female,728326959106
+Jassim Ramadan,Robotics,Canada,80.97,Male,185263478784
+Abdulmohsen Hashimy,Medicine,Bahrain,95.2,Male,211184644098
+Fatima Mousawi,Mechanical Engineering,Australia,88.94,Female,543635187712
+Khalid Ajmi,Media,UAE,87.99,Male,161212598272
+Aisha Bloushy,Medicine,Irland,99.2,Female,577858398209
+Zainab Bahbhani,Physics,Irland,99.72,Female,143025324032
+Hassan Mutairi,Chemical Engineering,Australia,89.85,Male,287023173636
+Omar Gambar,Pharmacy,Canada,97.47,Male,727720443906
+Norah Elenzi,Computer Engineering,Canada,82.82,Female,366487918595
+Asmaa Dashti,Chemical Engineering,New Zealand,99.11,Female,294175291392
+Munir Habib,Medicine,Saudi,99.32,Male,480163153922
+Mansour Fadlhi,Pharmacy,New Zealand,98.0,Male,776528103424
+Jassim Hashimy,Art,UK,99.31,Male,761357623298
+Moath Gambar,French,USA,95.53,Male,365566824449
+Hamad Refai,Graphical Designing,UAE,81.09,Male,210701867008
+Abdulaziz Ramadan,Computer Science,UAE,81.8,Male,800655597568
+Abdulaziz Fozan,business,France,91.52,Male,207083458560
+Nancy Habib,English,New Zealand,90.39,Female,307527559169
+Fatima Fozan,French,New Zealand,81.14,Female,184398379015
+Ahmad Dashti,Marketing,UAE,99.96,Male,755679180800
+Noor Ghanim,English,Irland,92.73,Female,547645497344
+Ahmad Bloushy,Marketing,USA,87.91,Male,798324408327
+Norah Abdal,Medical Engineering,Canada,90.9,Female,586384476161
+Fatima Ghanim,Medicine,Saudi,96.99,Female,500641964035
+Abdulaziz Ajmi,Biology,Saudi,87.19,Male,626363250688
+Habiba Jawahery,Media,Australia,90.75,Female,190452725760
+Abdulaziz Habib,Data Science,UAE,86.39,Male,679619991553
+Hashim Habib,English,UAE,85.44,Male,595159001091
+Aisha Azmi,Mechanical Engineering,Saudi,98.43,Female,266910705664
+Farah Ramadan,Chemical Engineering,Irland,81.49,Female,413433528323
+Hamza Hulail,Dentistry,UAE,96.13,Male,216601438208
+Farah Gambar,Media,Australia,91.9,Female,324357011457
+Sara Hulail,Dentistry,France,99.93,Female,768953774081
+Jassim Ghanim,Computer Science,New Zealand,90.2,Male,418820116482
+Nancy Bloushy,Biology,France,82.51,Female,440670541824
+Mohammed Azmi,Robotics,UK,94.38,Male,584270985220
+Hamad Gambar,Civil Engineering,Irland,87.92,Male,493500356612
+Mahdi Al-Bannai,Pharmacy,Saudi,95.57,Male,153835689984
+Fatima Dashti,Biology,Saudi,91.38,Female,570544234497
+Rashid Shimery,Medical Engineering,France,92.74,Male,858834501634
+Mahdi Fozan,Biology,Canada,82.3,Male,985985198086
+Mohammed Tuneb,Pharmacy,New Zealand,98.37,Male,816158564352
+Hamad Mousawi,Medicine,France,97.22,Male,802703327232
+Moath Ajmi,Pharmacy,France,97.72,Male,898823081986
+Mohammed Ramadan,Chemistry,New Zealand,96.3,Male,576445218816
+Mariam Gambar,Computer Engineering,New Zealand,94.8,Female,263192825859
+Abdulmohsen Bloushy,business,USA,82.67,Male,354263121922
+Sara Ghanim,French,UAE,80.23,Female,540774606848
+Rashid Ramadan,Chemical Engineering,France,87.54,Male,385045782530
+Khalid Al-Bannai,Chemistry,New Zealand,93.72,Male,555275937792
+Moath Azmi,English,UK,85.07,Male,486273376256
+Aisha Fozan,Pharmacy,Australia,97.62,Female,219813828608
+Zainab Ramadan,Computer Science,Irland,95.41,Female,393666170886
+Zainab Marafi,French,Saudi,97.04,Female,765027917827
+Sara Fadlhi,Dentistry,France,99.99,Female,293238120448
+Abdulaziz Abdal,Computer Science,USA,93.42,Male,497853321219
+Munir Marafi,Chemistry,France,92.61,Male,400845123585
+Jawan Shimery,Aerospace Engineering,Australia,87.47,Female,846154342400
+Mansour Habib,Media,USA,97.77,Male,834332624896
+Thamer Hulail,Computer Science,Bahrain,81.34,Male,780475428864
+Moath Mutairi,Physics,Bahrain,98.87,Male,557340203011
+Jassim Tuneb,Marketing,Bahrain,85.55,Male,589493540865
+Nancy Dashti,Media,UAE,87.1,Female,670231500801
+Munir Azmi,Aerospace Engineering,France,85.96,Male,419123558400
+Haider Habib,Media,France,82.3,Male,505318068225
+Sara Bloushy,Cyber Security,Australia,82.48,Female,744434835457
+Mohammed Fadlhi,Computer Engineering,Saudi,97.16,Male,646419914754
+Hashim Mutairi,Aerospace Engineering,Canada,84.02,Male,765806383107
+Mariam Elenzi,Chemical Engineering,UK,98.59,Female,137797769216
+Yousif Marafi,Medicine,Saudi,96.4,Male,721616400390
+Abdullah Hashimy,Media,Canada,99.71,Male,274218420225
+Nancy Ghanim,Chemistry,Irland,99.4,Female,676649744384
+Haider Ramadan,Physics,New Zealand,91.38,Male,118904811530
+Hussain Dashti,Computer Science,France,85.65,Male,592588474368
+Hussain Azmi,Pharmacy,Canada,99.13,Male,324336199684
+Noor Dashti,Medicine,France,98.79,Female,353967560704
+Hamza Refai,Art,Bahrain,99.97,Male,196899346434
+Abdullah Ramadan,Data Science,France,99.09,Male,190913173504
+Fatima Jawahery,Data Science,USA,84.88,Female,683687684097
+Jassim Ramadan,Graphical Designing,Saudi,80.71,Male,991278204930
+Abdulmohsen Gambar,French,USA,84.28,Male,337520244738
+Habiba Hulail,Biology,Canada,80.74,Female,985062744066
+Yousif Mutairi,Mechanical Engineering,New Zealand,83.05,Male,872683122688
+Asmaa Ajmi,Marketing,Australia,97.14,Female,129412065280
+Ahmad Jawahery,Pharmacy,France,97.25,Male,393400047621
+Hamad Ajmi,Dentistry,Australia,98.98,Male,889454477312
+Abdulaziz Ramadan,Pharmacy,UAE,95.54,Male,351552602114
+Nancy Bloushy,Dentistry,New Zealand,99.1,Female,290634524672
+Hamza Gambar,Civil Engineering,UK,92.8,Male,169562988546
+Munir Refai,business,UK,80.1,Male,582965676032
+Khalid Refai,business,USA,86.42,Male,740281495552
+Mohammed Fozan,Robotics,UK,81.18,Male,657642426368
+Hind Hulail,business,UAE,98.79,Female,703850498058
+Mansour Abdal,French,Bahrain,95.62,Male,944426153985
+Mohammed Bloushy,Pharmacy,Canada,99.19,Male,486046785536
+Aisha Mutairi,Medicine,France,99.28,Female,566711283712
+Aisha Elenzi,Medical Engineering,France,95.86,Female,513301991424
+Omar Elenzi,English,France,87.44,Male,538037669894
+Omar Elenzi,Medicine,UK,97.32,Male,483581446145
+Mahdi Marafi,Data Science,New Zealand,85.45,Male,247729788928
+Hajer Marafi,Computer Science,USA,90.27,Female,709797867520
+Hussain Mousawi,Graphical Designing,UK,92.98,Male,183774164992
+Omar Elenzi,Cyber Security,Canada,89.77,Male,753868132352
+Wrood Ajmi,Pharmacy,UK,98.99,Female,198040031233
+Hashim Hashimy,Graphical Designing,Canada,88.58,Male,551102134272
+Asmaa Refai,Chemistry,Saudi,80.1,Female,177651157003
+Sara Bahbhani,Physics,UK,97.94,Female,435136563200
+Hashim Fozan,Aerospace Engineering,New Zealand,95.4,Male,551753426944
+Habiba Shimery,English,Irland,90.04,Female,860245379073
+Mansour Al-Bannai,Chemical Engineering,UK,94.79,Male,752194160640
+Hind Mutairi,Physics,Saudi,86.65,Female,243177332740
+Mahdi Abdal,Graphical Designing,USA,90.86,Male,935850967040
+Abdullah Refai,Computer Science,UK,80.31,Male,490141247494
+Omar Ramadan,Art,Bahrain,95.32,Male,101878243328
+Moath Hulail,Chemical Engineering,UK,87.28,Male,543763056643
+Abdulaziz Azmi,Civil Engineering,Saudi,91.51,Male,489825292288
+Sara Shimery,Chemistry,USA,80.94,Female,155920078848
+Ahmad Ghanim,Medical Engineering,UK,82.97,Male,389871292416
+Jassim Hashimy,Robotics,Bahrain,93.99,Male,579024818179
+Mansour Hulail,business,Bahrain,87.52,Male,431406209024
+Yousif Elenzi,Pharmacy,Saudi,96.34,Male,545461805056
+Hussain Refai,Data Science,UAE,82.93,Male,449369731072
+Ali Tuneb,Data Science,France,85.28,Male,703872634880
+Mohammed Habib,Media,UK,95.07,Male,776640360448
+Mansour Elenzi,Civil Engineering,Bahrain,96.0,Male,509905123332
+Jawan Ramadan,French,Canada,91.02,Female,799164080130
+Sara Habib,Physics,Saudi,99.11,Female,733942321152
+Hind Azmi,Medical Engineering,Australia,99.66,Female,724114255874
+Hashim Tuneb,Media,UAE,99.85,Male,137581508608
+Omar Marafi,Robotics,Saudi,89.07,Male,322071285761
+Zainab Fadlhi,Graphical Designing,Saudi,84.95,Female,440341829632
+Abdulmohsen Jawahery,Data Science,USA,89.57,Male,531069943808
+Sara Dashti,Biology,UK,99.3,Female,892740771841
+Mahdi Tuneb,Data Science,Irland,82.74,Male,799630614528
+Abdulaziz Hashimy,English,New Zealand,85.38,Male,624595556352
+Hajer Elenzi,Mechanical Engineering,UAE,92.42,Female,109837117447
+Jassim Ajmi,Mechanical Engineering,Bahrain,99.65,Male,984238774272
+Salman Habib,Medical Engineering,Australia,83.27,Male,186145714179
+Sara Shimery,Media,USA,84.54,Female,918537842688
+Abdulaziz Abdal,Pharmacy,Saudi,97.25,Male,475013447680
+Thamer Azmi,Aerospace Engineering,New Zealand,91.58,Male,267246278665
+Ahmad Hashimy,Medicine,New Zealand,98.53,Male,730767978496
+Mariam Al-Bannai,Marketing,UK,80.15,Female,749432623104
+Jawan Al-Bannai,Data Science,USA,95.52,Female,163231971328
+Moath Elenzi,Computer Engineering,USA,92.07,Male,894768867328
+Mariam Mutairi,Computer Science,USA,84.44,Female,347305287681
+Habiba Mutairi,Medical Engineering,UAE,93.44,Female,968584632320
+Hajer Elenzi,Computer Science,Canada,92.61,Female,733669509123
+Hind Fadlhi,Art,Canada,94.03,Female,559487004672
+Abdulaziz Elenzi,Mechanical Engineering,France,86.54,Male,803478718466
+Thamer Mousawi,Media,USA,87.75,Male,738413176833
+Hajer Elenzi,Media,USA,98.49,Female,825382807552
+Jawan Elenzi,business,UAE,85.46,Female,961100021760
+Ali Habib,Mechanical Engineering,USA,92.31,Male,247491788805
+Ali Ramadan,Data Science,UAE,80.15,Male,585374582784
+Hamad Ajmi,Mechanical Engineering,UAE,91.62,Male,110490161154
+Hashim Gambar,Art,France,84.49,Male,693138913282
+Abdulaziz Refai,Mechanical Engineering,USA,94.96,Male,121565591553
+Ali Hulail,Civil Engineering,Saudi,84.26,Male,970836084736
+Wrood Habib,Chemistry,New Zealand,96.67,Female,663960694785
+Abdulmohsen Dashti,Aerospace Engineering,Canada,81.12,Male,658899324929
+Haider Abdal,Chemistry,Saudi,95.03,Male,863005462530
+Abdulmohsen Ghanim,Robotics,Canada,89.67,Male,531165878283
+Ali Refai,French,Canada,82.95,Male,446583996418
+Wrood Azmi,Pharmacy,Bahrain,95.85,Female,624983701505
+Moath Bahbhani,Aerospace Engineering,Bahrain,82.32,Male,194115143685
+Hind Dashti,business,Canada,98.61,Female,797882816513
+Omar Mousawi,Chemistry,Bahrain,95.63,Male,571657467905
+Farah Ajmi,Dentistry,New Zealand,98.88,Female,904846278657
+Omar Abdal,Aerospace Engineering,France,80.84,Male,976113543168
+Abdullah Ghanim,Medical Engineering,New Zealand,80.1,Male,564828258304
+Omar Azmi,Robotics,USA,91.47,Male,398871984128
+Mohammed Abdal,Media,USA,91.46,Male,590320607233
+Ali Fozan,Mechanical Engineering,New Zealand,83.72,Male,205245569029
+Mohammed Abdal,Computer Science,New Zealand,91.24,Male,715294263296
+Norah Habib,Computer Science,Saudi,92.17,Female,289797812226
+Ahmad Azmi,Mechanical Engineering,Irland,98.22,Male,840606197761
+Jassim Habib,Civil Engineering,Bahrain,83.45,Male,975751231494
+Jassim Ghanim,French,USA,90.9,Male,422234667009
+Yousif Shimery,Physics,Bahrain,88.4,Male,355830816768
+Munir Abdal,Physics,Australia,93.35,Male,470831708162
+Asmaa Ghanim,Computer Engineering,Australia,95.2,Female,292475570177
+Hussain Fozan,Physics,Irland,97.76,Male,287967139847
+Hashim Mousawi,Data Science,France,83.75,Male,308780447745
+Hashim Bloushy,French,Saudi,84.16,Male,858884909060
+Moath Abdal,Computer Science,New Zealand,84.32,Male,651609442305
+Ali Hashimy,Robotics,Bahrain,90.36,Male,792632557569
+Hind Elenzi,Civil Engineering,Australia,99.71,Female,424232615936
+Mohammed Hashimy,Civil Engineering,Bahrain,93.48,Male,419238950913
+Habiba Fadlhi,Chemistry,Australia,83.74,Female,326205431808
+Jawan Al-Bannai,Cyber Security,Bahrain,86.28,Female,100245680128
+Noor Ajmi,Data Science,Bahrain,81.5,Female,827767382018
+Hussain Ramadan,Chemical Engineering,Saudi,91.27,Male,805533634560
+Jawan Hashimy,Pharmacy,New Zealand,98.47,Female,169111257099
+Hind Mousawi,English,France,88.29,Female,567048060930
+Hassan Habib,Computer Science,Bahrain,90.64,Male,260017876992
+Salman Dashti,Aerospace Engineering,Saudi,92.03,Male,151603226626
+Mansour Hulail,Data Science,UK,92.16,Male,962400620545
+Abdulmohsen Fozan,Art,New Zealand,83.0,Male,439296063490
+Nancy Ajmi,Dentistry,Saudi,99.84,Female,738317047808
+Jassim Ghanim,Aerospace Engineering,Irland,91.31,Male,757558675457
+Abdulmohsen Mousawi,Medical Engineering,New Zealand,88.72,Male,612186089474
+Wrood Habib,Chemical Engineering,Irland,94.75,Female,802863675393
+Hamad Tuneb,Medicine,New Zealand,95.63,Male,862102218752
+Abdulaziz Tuneb,Civil Engineering,Canada,98.5,Male,366211799042
+Hamza Dashti,English,Australia,85.84,Male,734183198721
+Moath Mutairi,Computer Science,USA,83.38,Male,217435027456
+Hajer Ajmi,French,Australia,88.47,Female,822470223876
+Hashim Jawahery,Media,Saudi,81.72,Male,199751327746
+Haider Azmi,Biology,USA,86.67,Male,429458515969
+Mansour Habib,Chemistry,Irland,88.81,Male,898121078784
+Noor Ajmi,Data Science,Australia,93.49,Female,286249381890
+Hashim Bloushy,business,New Zealand,82.62,Male,174993766402
+Nancy Hashimy,Biology,Canada,95.3,Female,980580497410
+Mansour Ghanim,Cyber Security,UK,84.41,Male,948920072193
+Ahmad Tuneb,Physics,New Zealand,83.63,Male,893536188417
+Zainab Habib,business,UAE,94.98,Female,511657549824
+Yousif Ramadan,Robotics,Bahrain,92.28,Male,573512787968
+Abdulaziz Tuneb,Aerospace Engineering,UAE,81.29,Male,784528668673
+Abdulmohsen Fozan,Cyber Security,UK,93.08,Male,746132535299
+Hamad Fadlhi,business,Irland,89.22,Male,290976229377
+Nancy Bloushy,business,Saudi,99.59,Female,812209485827
+Yousif Ramadan,Art,Australia,81.93,Male,534170740736
+Noor Ghanim,Chemical Engineering,Bahrain,82.43,Female,987241664519
+Omar Jawahery,Cyber Security,UK,93.35,Male,735216936963
+Aisha Mutairi,Medicine,Bahrain,95.7,Female,410137602056
+Abdulmohsen Tuneb,Data Science,New Zealand,90.62,Male,100428812288
+Hind Al-Bannai,English,UAE,80.39,Female,556488216581
+Rashid Azmi,English,UAE,87.47,Male,175733125120
+Nancy Shimery,Graphical Designing,Australia,84.26,Female,753070258176
+Rashid Mousawi,Dentistry,Australia,96.05,Male,695904323586
+Omar Al-Bannai,Dentistry,Bahrain,96.34,Male,306997686272
+Ali Al-Bannai,Marketing,Australia,99.53,Male,627125755904
+Jassim Shimery,Physics,Saudi,87.15,Male,930265036801
+Mohammed Mousawi,Computer Science,UK,80.44,Male,864173049858
+Hind Gambar,Aerospace Engineering,Saudi,87.5,Female,328098265088
+Hind Mousawi,Data Science,Irland,81.25,Female,337115521025
+Moath Dashti,Physics,New Zealand,87.6,Male,368090189824
+Munir Hashimy,Marketing,USA,89.74,Male,748061616129
+Hamza Ghanim,Medicine,USA,99.18,Male,782562502658
+Hajer Ajmi,Biology,Australia,95.49,Female,864061030402
+Fatima Ghanim,Medicine,Bahrain,95.99,Female,746450403330
+Khalid Refai,Chemical Engineering,UK,92.92,Male,641556695047
+Asmaa Gambar,Marketing,Canada,92.68,Female,275355490305
+Ali Jawahery,Civil Engineering,Australia,83.3,Male,718732484608
+Khalid Fadlhi,Chemical Engineering,UK,92.92,Male,277463054339
+Mahdi Elenzi,business,Saudi,87.75,Male,466437062657
+Mahdi Jawahery,Aerospace Engineering,Bahrain,80.26,Male,771370379264
+Asmaa Gambar,Aerospace Engineering,Saudi,97.6,Female,199294595073
+Rashid Bahbhani,English,Australia,82.56,Male,750722531331
+Jassim Azmi,Biology,Bahrain,95.93,Male,281482422272
+Habiba Abdal,Mechanical Engineering,France,89.72,Female,176362932227
+Mariam Fozan,Pharmacy,UK,96.76,Female,533025796097
+Hussain Bahbhani,Art,Saudi,93.13,Male,635921264658
+Abdulaziz Elenzi,Marketing,Bahrain,98.2,Male,876855791619
+Asmaa Hulail,Computer Engineering,France,85.58,Female,232068589568
+Mariam Mousawi,Computer Science,New Zealand,81.09,Female,566174330880
+Mohammed Dashti,Art,USA,91.62,Male,596743030784
+Munir Ajmi,Computer Science,UK,80.83,Male,454668271620
+Yousif Bloushy,Pharmacy,France,95.47,Male,657465217024
+Aisha Mousawi,Biology,Canada,96.03,Female,624696434689
+Hamad Hashimy,Medical Engineering,New Zealand,97.0,Male,476572329985
+Norah Ramadan,Civil Engineering,Irland,93.71,Female,911019390977
+Salman Mousawi,Robotics,USA,83.83,Male,860513116160
+Haider Tuneb,Computer Science,UAE,87.39,Male,378688417792
+Khalid Mutairi,Civil Engineering,France,88.08,Male,209566771206
+Jawan Hashimy,Computer Science,Australia,95.29,Female,494536781828
+Hajer Fadlhi,Mechanical Engineering,New Zealand,93.36,Female,944052060164
+Khalid Ajmi,Dentistry,Australia,95.94,Male,908091725826
+Omar Ramadan,Medicine,Saudi,95.69,Male,516412901376
+Farah Fozan,Data Science,New Zealand,89.71,Female,204020942848
+Jawan Bahbhani,Medicine,France,97.71,Female,679397115904
+Khalid Ramadan,Marketing,UK,98.21,Male,900096315392
+Mohammed Ghanim,Chemical Engineering,Saudi,95.35,Male,825729560576
+Mansour Hulail,English,UAE,88.34,Male,116733667328
+Hassan Abdal,Chemistry,UAE,90.81,Male,867710857218
+Sara Fozan,Civil Engineering,Bahrain,94.16,Female,469568186368
+Norah Fadlhi,Civil Engineering,Saudi,99.44,Female,177760174080
+Omar Elenzi,French,Irland,88.2,Male,961728227335
+Omar Ghanim,Cyber Security,UK,96.6,Male,595857616896
+Moath Bahbhani,Robotics,UK,86.88,Male,121010833412
+Abdulmohsen Ajmi,Mechanical Engineering,UAE,82.68,Male,598402066433
+Jassim Hulail,French,UAE,87.1,Male,681564864512
+Ali Bloushy,Pharmacy,Bahrain,97.5,Male,304344045568
+Aisha Hulail,Robotics,Canada,92.67,Female,243330471937
+Mohammed Marafi,Computer Engineering,New Zealand,93.33,Male,629709885440
+Hamad Hulail,Computer Engineering,Canada,92.35,Male,948753356800
+Asmaa Ramadan,Computer Science,New Zealand,89.34,Female,675187316739
+Hind Refai,Computer Engineering,Irland,82.85,Female,966420862978
+Omar Ajmi,Cyber Security,USA,91.75,Male,400760670211
+Munir Abdal,Cyber Security,New Zealand,95.38,Male,220929095680
+Salman Gambar,Aerospace Engineering,New Zealand,85.85,Male,726461184006
+Abdulmohsen Fadlhi,Aerospace Engineering,Saudi,94.4,Male,609755197442
+Mansour Refai,Dentistry,UAE,95.23,Male,634377082881
+Aisha Al-Bannai,Medical Engineering,Bahrain,88.8,Female,579527921664
+Zainab Marafi,Chemical Engineering,USA,88.12,Female,919385217025
+Jassim Ramadan,Chemistry,USA,98.07,Male,646339934209
+Rashid Azmi,Art,Irland,83.76,Male,297326931969
+Salman Jawahery,Civil Engineering,Bahrain,96.94,Male,142008879105
+Yousif Ajmi,Biology,Bahrain,93.0,Male,780598253569
+Ali Azmi,Chemistry,France,95.29,Male,331977388032
+Mahdi Hashimy,Aerospace Engineering,USA,91.93,Male,500596799488
+Mariam Mutairi,Cyber Security,Bahrain,85.46,Female,194052206592
+Abdulmohsen Gambar,Media,Canada,99.55,Male,604278810627
+Hind Elenzi,Aerospace Engineering,USA,99.79,Female,738879784966
+Ahmad Ramadan,Aerospace Engineering,Australia,87.84,Male,570511144961
+Mahdi Hulail,Media,UAE,84.39,Male,359924084749
+Yousif Ghanim,French,Irland,91.88,Male,146167529478
+Hajer Ramadan,Computer Engineering,New Zealand,82.59,Female,713630502915
+Abdullah Hashimy,English,France,94.02,Male,476048195588
+Yousif Marafi,Medical Engineering,USA,89.77,Male,255518291969
+Abdullah Ramadan,Cyber Security,Saudi,82.95,Male,546900234240
+Hamza Gambar,Marketing,Canada,93.06,Male,218200049665
+Hamza Azmi,Art,Australia,99.69,Male,244115963904
+Ahmad Tuneb,Dentistry,USA,98.65,Male,706451460099
+Wrood Jawahery,Biology,UK,94.07,Female,464765229057
+Hassan Al-Bannai,Marketing,New Zealand,86.6,Male,441920225280
+Habiba Jawahery,Medical Engineering,USA,89.89,Female,854136809472
+Munir Tuneb,French,France,86.09,Male,246095316993
+Abdullah Elenzi,Dentistry,UK,96.48,Male,291880005632
+Hamza Jawahery,Physics,Irland,85.85,Male,220622518272
+Sara Shimery,Aerospace Engineering,Irland,89.09,Female,685516374016
+Thamer Elenzi,Civil Engineering,Bahrain,91.62,Male,211904616451
+Zainab Bahbhani,Dentistry,Saudi,98.37,Female,788836634624
+Jawan Hulail,Data Science,Canada,96.34,Female,949749250050
+Mansour Al-Bannai,Dentistry,UAE,96.94,Male,309524090881
+Hassan Jawahery,Computer Engineering,Australia,97.82,Male,363609114625
+Rashid Abdal,Chemistry,New Zealand,95.33,Male,903324207104
+Noor Habib,Chemical Engineering,Saudi,93.25,Female,516142837764
+Wrood Elenzi,Marketing,Australia,91.03,Female,592200986630
+Mohammed Al-Bannai,Cyber Security,UAE,82.54,Male,808393869312
+Ahmad Hulail,Chemical Engineering,Bahrain,85.79,Male,838615764993
+Hussain Mousawi,Data Science,Bahrain,85.65,Male,806358081536
+Habiba Hulail,French,UK,85.8,Female,941744302082
+Jawan Habib,Art,UAE,89.65,Female,454029344769
+Abdulaziz Hashimy,Biology,Saudi,80.89,Male,960853039104
+Mahdi Bloushy,Civil Engineering,France,81.98,Male,392323235840
+Hassan Shimery,Biology,Bahrain,96.66,Male,679049936896
+Hajer Fadlhi,Mechanical Engineering,Bahrain,83.5,Female,150991183875
+Thamer Refai,Dentistry,New Zealand,97.08,Male,817535789056
+Hajer Fadlhi,Graphical Designing,UK,83.6,Female,960614004738
+Norah Mutairi,Biology,Saudi,99.56,Female,417869002752
+Mahdi Tuneb,Chemical Engineering,Australia,89.61,Male,601530306561
+Hashim Hulail,Art,Bahrain,96.84,Male,373695526915
+Asmaa Mousawi,Cyber Security,UAE,82.78,Female,106090260485
+Aisha Bloushy,Biology,France,98.52,Female,887405111298
+Norah Refai,Computer Engineering,Bahrain,80.58,Female,199523409924
+Farah Al-Bannai,English,Saudi,97.92,Female,788944752640
+Nancy Azmi,Marketing,Bahrain,93.09,Female,368511807495
+Jawan Abdal,French,UAE,96.36,Female,522304843776
+Abdulaziz Jawahery,Art,New Zealand,98.36,Male,269788993536
+Nancy Fozan,Robotics,UAE,93.13,Female,805736278017
+Hussain Ramadan,Marketing,Irland,94.09,Male,736694091776
+Sara Tuneb,Biology,Australia,93.3,Female,395711729664
+Jawan Ghanim,French,Canada,96.5,Female,838780399616
+Ahmad Al-Bannai,Art,Canada,85.75,Male,880863514625
+Munir Mousawi,Civil Engineering,France,88.21,Male,289676986370
+Zainab Mousawi,Graphical Designing,UK,96.38,Female,403393378306
+Rashid Dashti,Data Science,UAE,92.87,Male,180423186438
+Ali Refai,Computer Science,Saudi,96.31,Male,605728307200
+Abdullah Ajmi,Dentistry,UAE,98.81,Male,120177297409
+Hashim Mousawi,Marketing,UK,98.22,Male,660792719361
+Jawan Ghanim,Marketing,USA,89.62,Female,914515271681
+Habiba Fozan,Medical Engineering,France,97.81,Female,938716672004
+Ahmad Elenzi,Medical Engineering,USA,84.87,Male,456305119234
+Hassan Elenzi,Marketing,New Zealand,93.09,Male,752963536896
+Omar Hashimy,Biology,USA,93.65,Male,130259083266
+Abdullah Dashti,Robotics,Australia,90.08,Male,212223344642
+Abdulmohsen Ghanim,Computer Science,France,93.59,Male,924093980672
+Asmaa Bahbhani,Pharmacy,Canada,96.4,Female,667900667906
+Mahdi Ajmi,Graphical Designing,UAE,97.35,Male,361809477632
+Ali Habib,Graphical Designing,Saudi,99.46,Male,586742364160
+Asmaa Dashti,Pharmacy,Canada,96.09,Female,934892593158
+Farah Bahbhani,Physics,France,99.7,Female,847028705280
+Hamad Shimery,Physics,Canada,81.37,Male,246001369089
+Fatima Refai,Biology,UK,94.81,Female,687821176836
+Yousif Azmi,Graphical Designing,UK,94.44,Male,527283765250
+Hind Mousawi,Medical Engineering,New Zealand,95.23,Female,616744151041
+Hussain Ghanim,Aerospace Engineering,Irland,94.57,Male,448569888768
+Munir Ghanim,Media,Saudi,93.8,Male,746765451265
+Mariam Hashimy,English,UK,85.6,Female,968564396033
+Jawan Gambar,Cyber Security,France,99.11,Female,390676602880
+Hassan Mousawi,Medicine,Saudi,96.73,Male,985165803521
+Habiba Abdal,Mechanical Engineering,New Zealand,96.89,Female,162449713154
+Hajer Shimery,Data Science,France,91.47,Female,765088163844
+Hajer Mousawi,business,New Zealand,99.83,Female,897143666688
+Hassan Mousawi,Aerospace Engineering,Australia,99.43,Male,373276518403
+Jassim Refai,Media,Australia,96.23,Male,689269620736
+Hamza Abdal,Medical Engineering,Bahrain,81.2,Male,172824619009
+Nancy Hulail,Physics,UK,83.81,Female,803189911553
+Nancy Al-Bannai,Biology,Canada,81.68,Female,507310561283
+Aisha Ramadan,Civil Engineering,France,96.01,Female,925766856704
+Mohammed Al-Bannai,Medicine,USA,96.92,Male,387078150145
+Asmaa Hashimy,Pharmacy,France,98.39,Female,333903001601
+Ahmad Fozan,Civil Engineering,Bahrain,93.01,Male,972085547008
+Ahmad Ajmi,Robotics,New Zealand,87.98,Male,349535627268
+Haider Marafi,English,Saudi,86.3,Male,364173740033
+Hussain Fadlhi,Pharmacy,Irland,99.5,Male,802197348355
+Munir Marafi,Medicine,Saudi,97.8,Male,727423176706
+Mariam Refai,Medical Engineering,UAE,91.27,Female,734433374208
+Mariam Shimery,French,UK,93.27,Female,962934763522
+Thamer Refai,Dentistry,Irland,98.84,Male,853498793987
+Abdullah Ramadan,Robotics,Irland,84.19,Male,671086587904
+Hajer Mousawi,French,Bahrain,85.01,Female,298378618881
+Nancy Bloushy,Cyber Security,Irland,92.73,Female,513726806016
+Habiba Ajmi,Dentistry,France,96.43,Female,843900710913
+Farah Hashimy,Media,France,94.99,Female,222535821315
+Habiba Marafi,Art,Saudi,92.23,Female,451016425478
+Zainab Ghanim,Computer Science,Australia,83.53,Female,350067994626
+Fatima Bloushy,Physics,Irland,86.2,Female,600163018754
+Wrood Bahbhani,English,Bahrain,98.65,Female,705839316993
+Mahdi Hulail,Chemistry,UK,87.92,Male,674945286144
+Jawan Hulail,Media,Irland,92.39,Female,455234617349
+Thamer Mutairi,Aerospace Engineering,Saudi,81.26,Male,132669718530
