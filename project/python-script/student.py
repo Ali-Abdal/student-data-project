@@ -11,16 +11,7 @@ class Student:
         self.code = code
 
     def describe_student(self):
-        print(f"""
-
-        Name: {self.name}
-        GPA: {self.gpa}
-        Country: {self.country}
-        Major: {self.major}
-        Gender: {self.gender}
-        Code: {self.code}
-
-        """)
+        return f"\nName: {self.name}\nGPA: {self.gpa}\nCountry: {self.country}\nMajor: {self.major}\nGender: {self.gender}\nCode: {self.code}"
 
     def change_major(self,new_major):
         self.major = new_major

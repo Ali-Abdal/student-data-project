@@ -15,11 +15,11 @@ class Statistics:
     
         tmp = sorted(((v,k) for k,v in count.items()),reverse=True) # k = country, v = number of students
 
-        print('----- Country: Number of students -----')
+        output = ''
         for number_of_students,country in tmp:
-            print(f'{country}: {number_of_students} students')
+            output += f'{country}: {number_of_students} students\n'
     
-        print('\n\n')
+        return output
 
 
     # counts how many each major is repeated then prints the major name with the number of students studing
@@ -31,11 +31,11 @@ class Statistics:
     
         tmp = sorted(((v,k) for k,v in count.items()),reverse=True) # k = major, v = number of students
 
-        print('----- Major: Number of students -----')
+        output = ''
         for number_of_students,major in tmp:
-            print(f'{major}: {number_of_students} students')
+            output += f'{major}: {number_of_students} students\n'
 
-        print('\n\n')    
+        return output   
 
 
     # gets total gpa for each major assiened to a key with major name in a dictionary then counts the number of students in each 
@@ -57,11 +57,11 @@ class Statistics:
         # n = number of students, m = major, t = total gpa
         major_data = sorted([(n/t,m) for m,n,t in major_data ],reverse=True)
 
-        print('----- Major: Average GPA -----')
+        output = ''
         for (average_gpa,major) in major_data:
-            print(f'{major}: {round(average_gpa,2)}%')
+            output += f'{major}: {round(average_gpa,2)}%\n'
 
-        print('\n\n')
+        return output
 
 
     # makes a dictionary contains majors as a key assigend to list of accepted students gpas in that major then prints
@@ -72,12 +72,12 @@ class Statistics:
             gpa_for_each_major[student.major] = gpa_for_each_major.get(student.major,[])
             gpa_for_each_major[student.major].append(float(student.gpa))
         
-        print('----- Major: lowest gpa highest gpa -----')
+        output = ''
         for major,gpa in gpa_for_each_major.items():
             tmp_lst = [ x for x in gpa]
-            print(f'{major}: L {min(tmp_lst)}% H {max(tmp_lst)}%')
-        print('\n\n')
-
+            output += f'{major}: L {min(tmp_lst)}% H {max(tmp_lst)}%\n'
+        
+        return output
 
     # makes a dictionary contains gender as key assiend to total of student from both gender then prints it
     def get_male_and_females(self):
@@ -85,7 +85,6 @@ class Statistics:
         for student in self.students_data:
             count[student.gender.strip()] = count.get(student.gender.strip(),0) + 1
         
-        print(f'----- Students gender: Males / Females -----')
-        print(f'Total: {len(self.students_data)}\nMale: {count["Male"]}\nFemale: {count["Female"]}')
-        print('\n\n')
+        output = f'Total: {len(self.students_data)}\nMale: {count["Male"]}\nFemale: {count["Female"]}'        
+        return output
         

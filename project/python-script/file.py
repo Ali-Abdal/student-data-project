@@ -24,7 +24,7 @@ class File:
                 print('Data has been uploaded!')
                 return self.students_data
         except FileNotFoundError:
-            print('Error check the file path main function in main.py!!!')
+            print('Error check the file path !!!')
 
     def update_file_data(self):
         with open(self.file_path,'w') as fh:
