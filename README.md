@@ -37,5 +37,5 @@ example: student's major.
 4. Tkinter though it makes the code uglier and messier but it's easy to use and learn and dose the job
 
 # notice:
-you will have to install customtkinter
-```pip install customtkinter```
+you will have to install customtkinter ```pip install customtkinter```
+you might have to change the file path in main.py of you are using windows 
