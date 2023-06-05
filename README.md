@@ -39,4 +39,4 @@ example: student's major.
 ## notice:
 you will have to install customtkinter ```pip install customtkinter```
 
-you might have to change the file path in main.py of you are using windows 
+you might have to change the file path in main.py if you are using windows 
