@@ -27,3 +27,15 @@ example: student's major.
 7. csv files
 8. Tkinter (customtkinter) https://github.com/TomSchimansky/CustomTkinter
 9. handling exceptions 
+
+## Demo:
+
+## What I have learned from this project:
+1. organizing the code using classes and functions so it become more readable
+2. planing and setting tasks in the right order
+3. using chat gpt as an assistant with solving problems, explaining new concepts and more ( didn't need stackoverflow at all)
+4. Tkinter though it makes the code uglier and messier but it's easy to use and learn and dose the job
+
+# notice:
+you will have to install customtkinter
+```pip install customtkinter```
