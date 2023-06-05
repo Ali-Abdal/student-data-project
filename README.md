@@ -13,7 +13,7 @@ course link: https://www.coursera.org/learn/python-data
 example: student's major.
 5. in modify frame you will be able to change wanted student info for example the student changed his major and you want to change it in the data and in the file you need to choose which value that you want to change then providing wanted student code first it will check if the student exist if so it will ask you to enter the new major then it will change the value both in list of data and in file so if you close the app and reopen it your changes will be saved.
 
-## What I have implemented in this project?:
+## What I have implemented in this project:
 1. looping on tupels, lists and dictionaries
 2. unpacking dictionaries as a sorted list of tupels using list comprehensions.
 3. lambda function, map function
