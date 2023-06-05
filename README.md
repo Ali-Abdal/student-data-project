@@ -36,6 +36,6 @@ example: student's major.
 3. using chat gpt as an assistant with solving problems, explaining new concepts and more ( didn't need stackoverflow at all)
 4. Tkinter though it makes the code uglier and messier but it's easy to use and learn and dose the job
 
-# notice:
+## notice:
 you will have to install customtkinter ```pip install customtkinter```
 you might have to change the file path in main.py of you are using windows 
