@@ -40,3 +40,5 @@ example: student's major.
 you will have to install customtkinter ```pip install customtkinter```
 
 you might have to change the file path in main.py if you are using windows 
+
+you will need student code to use most of the program you can open the csv file and copy a code and use it or you can use this one `214483462144`
