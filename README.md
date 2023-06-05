@@ -5,7 +5,7 @@ Python project that analyses and modify fake data of 1000 students that studies 
 Did this project after taking Python Data Structures course by University of Michigan to implement what I learned in a real programme.
 
 
-# What I've implemented in this project
+## What I've implemented in this project
 1. looping on tupels, lists and dictionaries
 2. unpacking dictionaries as a sorted list of tupels using list comprehensions.
 3. lambda function, map function
