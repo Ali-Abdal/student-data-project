@@ -7,10 +7,14 @@ course link: https://www.coursera.org/learn/python-data
 
 ## Brief explenation for the project:
 1. First of all method called load_data() from File class reads the csv file and splits the value in each line then stores it in a list of Student objects. 
+
 2. there is 3 sections in the nav bar statistics - student - modify.
+
 3. in statistics frame you will be able to select the wanted method from Statistics class such as getting number of students in each major then when you press the button the output will be shown in the text box.
+
 4. in student frame you will be able to chosse wanted student info from the menu then you will need to provide student's code when you press next button it will checks if the code exist in the data if so it will return wanted student index in the list of data it will display the info 
 example: student's major.
+
 5. in modify frame you will be able to change wanted student info for example the student changed his major and you want to change it in the data and in the file you need to choose which value that you want to change then providing wanted student code first it will check if the student exist if so it will ask you to enter the new major then it will change the value both in list of data and in file so if you close the app and reopen it your changes will be saved.
 
 ## What I have implemented in this project:
